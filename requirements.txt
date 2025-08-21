@@ -2,6 +2,3 @@ gspread
 pandas
 numpy
 streamlit
-random
-re
-string
